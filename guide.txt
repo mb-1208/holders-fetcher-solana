@@ -1,0 +1,7 @@
+1. You must have Node.js and NPM to run the code.
+2. Run npm i to install the modules
+3. Open the config.js file, and modify the config content according to your needs.
+4. Run the code with the command 'npm run start.'
+5. If there are no errors or issues, the terminal will display the progress of fetching token IDs.
+6. If all token IDs are successfully fetched according to the total tokens, it will automatically create a file named 'token_owners.csv.'
+7. Congratulations, you have successfully run the code without any problems
